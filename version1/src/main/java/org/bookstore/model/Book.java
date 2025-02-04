@@ -13,4 +13,16 @@ public sealed abstract class Book permits Ebook, SoftCover, HardCover{
     }
 
     public abstract String getFormat();
+
+    public String getBookName() {
+        return bookName;
+    }
+
+    public Author getAuthor() {
+        return author;
+    }
+
+    public int getPrice() {
+        return price;
+    }
 }
