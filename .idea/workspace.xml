@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d24e28b9-1a38-4a33-9aa0-01d7f2d836ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/repo/BookRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/repo/AuthorRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/service/AuthorService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/version1/src/main/java/org/bookstore/controller/BookController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Target53/practice"
+    "last_opened_file_path": "C:/Target53/foodexpress"
   }
 }]]></component>
   <component name="RunManager">

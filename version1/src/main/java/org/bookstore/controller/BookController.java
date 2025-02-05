@@ -1,10 +1,8 @@
 package org.bookstore.controller;
 
 import org.bookstore.model.Book;
-import org.bookstore.model.HardCover;
 import org.bookstore.service.BookService;
 
-import java.util.List;
 
 public class BookController {
 
@@ -24,7 +22,7 @@ public class BookController {
     }
 
     public void updateBook(Book book){
-        bookService.update(book);
+        bookService.updateBook(book);
     }
 
 }
