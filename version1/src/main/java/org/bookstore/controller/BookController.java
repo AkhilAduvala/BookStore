@@ -25,4 +25,8 @@ public class BookController {
         bookService.updateBook(book);
     }
 
+    public String knowFormat(String bookName){
+        return bookService.knowFormat(bookName);
+    }
+
 }
